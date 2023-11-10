@@ -3,6 +3,11 @@
   "displayName": "A Nice Theme",
   "description": "A Nice Theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhaledd/a-nice-theme",
+    "directory": "themes"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
